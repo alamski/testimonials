@@ -12,7 +12,8 @@ body {
   margin: 0;
   min-width: 320px;
   min-height: 100vh;
-  background: linear-gradient(135deg, #111827 0%, #1f2937 100%);
+  background: #7951A8;
+  position: relative;
 }
 
 /* Utility Classes */
